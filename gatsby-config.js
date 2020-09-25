@@ -3,7 +3,7 @@ module.exports = {
     title: `Chang-won Park Blog`,
     author: {
       name: `Chang-won Park`,
-			summary: `Development Blog`,
+      summary: `Development Blog`,
     },
     description: `A Blog`,
     siteUrl: `https://wwwdevlog.netlify.app/`,
